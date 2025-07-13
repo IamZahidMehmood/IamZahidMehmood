@@ -5,7 +5,7 @@ and Instructor at the same time
 | 🏆 CS50x Puzzle Day Winner @Harvard | GenAI Application Developer
 
 ---
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PushAndMerge&data=followers,repositories,stars,commits)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PushAndMerge&data=followers,repositories,stars,commits)
 
 --- 
 ## 💼 Tech Stack
