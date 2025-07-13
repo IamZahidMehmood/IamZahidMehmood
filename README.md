@@ -5,7 +5,9 @@ and Instructor at the same time
 | 🏆 CS50x Puzzle Day Winner @Harvard | GenAI Application Developer
 
 ---
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)]
 
+--- 
 ## 💼 Tech Stack
 <a href="https://github.com/Jurredr/github-widgetbox">
   <img src="https://github-widgetbox.vercel.app/api/skills?skills=HTML,CSS,JavaScript,React,Node.js,Express,MongoDB,Solidity,C++,Python,Git&theme=carbon" alt="Tech Stack"/>
