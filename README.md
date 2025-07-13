@@ -32,6 +32,17 @@ and Instructor at the same time
 
 ---
 
+## 🧱 Frameworks
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,express,angular)]
+
+---
+## 🧰 Software & IDE's
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode)]
+
+---
+
 ## 🤝 GitHub Followers
 <a href="https://github.com/Jurredr/github-widgetbox">
   <img src="https://github-widgetbox.vercel.app/api/followers?username=PushAndMerge&theme=light" alt="Followers Count"/>
