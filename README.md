@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Zahid Mehmood and Instructor at the same time
+# 👋 Hi, I'm Zahid Mehmood
+and Instructor at the same time
 
 👨‍💻 SWE | 📈 350+ LeetCode | Section leader Mentor CIP @Stanford 2025 
 | 🏆 CS50x Puzzle Day Winner @Harvard | GenAI Application Developer
@@ -27,7 +28,7 @@
 ---
 
 ## 🌍 Top Languages Used
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp)]
 
 ---
 
