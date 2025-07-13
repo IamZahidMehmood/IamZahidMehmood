@@ -4,15 +4,15 @@
 
 ### 🚀 Achievements & Highlights
 
-- **Section Leader Mentor** for [**Stanford University’s Code in Place 2025**](https://digitalcredential.stanford.edu/check/65B75C1578500AFCDD0427D0F2C81E3CA24A311AF85C28AC9F20D2EC672F35CCdW03WjJDSFJ5RkVNcEhUT1gzWnVQMGQ1bEhpNENqOGNjNU1DajBTK010RUUvSk9F), teaching Python to 50+ students globally.
--  [**Codeforces Specialist**](https://codeforces.com/profile/weblearning9) — **Ranked #32 in Pakistan**.
+- @**Section Leader Mentor** for [**Stanford University’s Code in Place 2025**](https://digitalcredential.stanford.edu/check/65B75C1578500AFCDD0427D0F2C81E3CA24A311AF85C28AC9F20D2EC672F35CCdW03WjJDSFJ5RkVNcEhUT1gzWnVQMGQ1bEhpNENqOGNjNU1DajBTK010RUUvSk9F), teaching Python to 50+ students globally.
+-  @[**Codeforces Specialist**](https://codeforces.com/profile/weblearning9) — **Ranked #32 in Pakistan**.
 -  [**@LeetCode**](https://leetcode.com/u/dot_code/): **Solved 350+** Data Structures & Algorithms problems.
-- ⭐️⭐️ [**CodeChef 2-Star**](https://www.codechef.com/users/dot_code01) — Currently **ranked #28 in Pakistan**.
--  [**Advent of Code 2024**](https://adventofcode.com/2024/leaderboard/private/view/4298347) — **Ranked #26 in Pakistan**.
+- @⭐️⭐️ [**CodeChef 2-Star**](https://www.codechef.com/users/dot_code01) — Currently **ranked #28 in Pakistan**.
+-  @[**Advent of Code 2024**](https://adventofcode.com/2024/leaderboard/private/view/4298347) — **Ranked #26 in Pakistan**.
 -  @[**Certified Generative AI Developer**](https://www.linkedin.com/feed/update/urn:li:activity:7310920840143921155/)
--  **@Harvard University**(CS50x_PuzzleDay_Winner): Our team [**won 1st place**](https://www.linkedin.com/feed/update/urn:li:activity:7316717942438531072/)  solving 9/9 complex puzzles.
+-  @**Harvard University**(CS50x_PuzzleDay_Winner): Our team [**won 1st place**](https://www.linkedin.com/feed/update/urn:li:activity:7316717942438531072/)  solving 9/9 complex puzzles.
 -  **@iCodeGuru**:Trained hundred of students in Data Structures and Algorithms (DSA).
--  [Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7216128265168551936/): Achieved a speed of **110+ WPM**.
+-  @[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7216128265168551936/): Achieved a speed of **110+ WPM**.
 
 
 ---
