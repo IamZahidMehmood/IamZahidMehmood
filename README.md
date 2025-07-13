@@ -1,8 +1,7 @@
-# 👋 Hi, I'm PushAndMerge (Khan Zahid Rasheed Raja)
+# 👋 Hi, I'm Zahid Mehmood and Instructor at the same time
 
-🚀 Full Stack Developer | 🌐 Open Source Contributor | 🧠 Programming Teacher  
-🇵🇰 Based in Pakistan | 🏆 Ranked in top GitHub contributors (target!)  
-🎯 Mission: Teaching 20,000+ students through open-source & YouTube
+👨‍💻 SWE | 📈 350+ LeetCode | Section leader Mentor CIP @Stanford 2025 
+| 🏆 CS50x Puzzle Day Winner @Harvard | GenAI Application Developer
 
 ---
 
@@ -28,9 +27,7 @@
 ---
 
 ## 🌍 Top Languages Used
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img src="https://github-widgetbox.vercel.app/api/languages?username=PushAndMerge&theme=radial" alt="Top Languages"/>
-</a>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 ---
 
@@ -43,12 +40,11 @@
 
 ## 💡 About Me in Bullet Points
 
-- 🧑‍🏫 5+ Years Teaching Experience (Degree College + iCodeGuru)
-- 🏆 Codeforces: Specialist | CodeChef: 4★ | Meta Round 2 Qualifier
-- 🎓 Stanford Code in Place Section Leader Mentor
+- 🧑‍🏫 8+ Years Teaching Experience (Degree College + iCodeGuru)
+- 🏆 Codeforces: Specialist | CodeChef: 2★ | Meta Round 2 Qualifier
+- 🎓 Stanford Code in Place Section Leader Mentor 2025
 - 📚 Researcher | Published on arXiv | Working on AI Bias in LLM Tutors
-- 🇵🇰 Top 50 in Pakistan (Advent of Code) | Top 15 GitHub contributor in Pakistan (goal!)
-- 📺 YouTube Channel, 70+ hrs of free DSA
+- 🇵🇰 Top 26 in Pakistan (Advent of Code) 2025
 - 💼 MERN & Blockchain Developer
 
 ---
