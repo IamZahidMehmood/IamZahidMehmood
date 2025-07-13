@@ -63,22 +63,10 @@
 
 ---
 
-## 💡 About Me in Bullet Points
-
-- 🧑‍🏫 8+ Years Teaching Experience (Degree College + iCodeGuru)
-- 🏆 Codeforces: Specialist | CodeChef: 2★ | Meta Round 2 Qualifier
-- 🎓 Stanford Code in Place Section Leader Mentor 2025
-- 📚 Researcher | Published on arXiv | Working on AI Bias in LLM Tutors
-- 🇵🇰 Top 26 in Pakistan (Advent of Code) 2025
-- 💼 MERN & Blockchain Developer
-
----
-
 ## 📣 Let's Connect!
 
 - GitHub: [PushAndMerge](https://github.com/PushAndMerge)
-- LinkedIn: *(add your link here)*
-- Twitter: *(optional)*
+- LinkedIn: *[sirzahid](https://www.linkedin.com/in/sirzahid/)*
 
 ---
 
