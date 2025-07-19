@@ -19,10 +19,21 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PushAndMerge&data=followers,repositories,stars,commits)
 
 --- 
-## 💼 Tech Stack
-<a href="https://github.com/Jurredr/github-widgetbox">
-  <img src="https://github-widgetbox.vercel.app/api/skills?skills=HTML,CSS,JavaScript,React,Node.js,Express,MongoDB,Solidity,C++,Python,Git&theme=carbon" alt="Tech Stack"/>
-</a>
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahazainab/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/mahazainab28" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/mahazainab/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCPcTRizVI1B6HpYzX6l3rrQ" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
