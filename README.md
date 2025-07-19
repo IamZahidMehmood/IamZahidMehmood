@@ -15,10 +15,6 @@
 -  @[Typing Speed](https://www.linkedin.com/feed/update/urn:li:activity:7216128265168551936/): Achieved a speed of **110+ WPM**.
 
 
----
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=PushAndMerge&data=followers,repositories,stars,commits)
-
---- 
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mahazainab/" target="_blank">
