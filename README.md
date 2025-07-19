@@ -23,6 +23,15 @@
   <a href="https://leetcode.com/dot_code/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
+   <a href="https://codeforces.com/profile/weblearning9" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/dot_code01" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@weblearning9" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCPcTRizVI1B6HpYzX6l3rrQ" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
   </a>
