@@ -41,18 +41,18 @@
 ---
 
 ## 🌍 Top Languages Used
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,python,html,css,c,cpp)
 
 ---
 
 ## 🧱 Frameworks
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,express,angular)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,bootstrap,tailwind,express,angular)
 
 ---
 ## 🧰 Software & IDE's
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=windows,vscode)
 
 ---
 
