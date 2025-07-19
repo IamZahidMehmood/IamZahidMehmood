@@ -17,13 +17,10 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahazainab/" target="_blank">
+  <a href="https://www.linkedin.com/in/sirzahid/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/mahazainab28" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/mahazainab/" target="_blank">
+  <a href="https://leetcode.com/dot_code/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.youtube.com/channel/UCPcTRizVI1B6HpYzX6l3rrQ" target="_blank">
