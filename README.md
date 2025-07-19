@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Zahid Mehmood
  — a **Competitive Programmer**, **Full-Stack Developer**, and **Programming Instructor**
+ 
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/USERNAME)
 
 
 ### 🚀 Achievements & Highlights
