@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Zahid Mehmood
  — a **Competitive Programmer**, **Full-Stack Developer**, and **Programming Instructor**
  
-[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/USERNAME)
-
-
 ### 🚀 Achievements & Highlights
 
 - @**Section Leader Mentor** for [**Stanford University’s Code in Place 2025**](https://digitalcredential.stanford.edu/check/65B75C1578500AFCDD0427D0F2C81E3CA24A311AF85C28AC9F20D2EC672F35CCdW03WjJDSFJ5RkVNcEhUT1gzWnVQMGQ1bEhpNENqOGNjNU1DajBTK010RUUvSk9F), teaching Python to 50+ students globally.
